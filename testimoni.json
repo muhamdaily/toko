@@ -1,13 +1,73 @@
 {
     "testimoni": [
         {
+            "name": "IAmToasting",
+            "product": "Custom Discord Bot",
+            "imageUrl": "https://cdn.discordapp.com/avatars/873368320756318229/ab5896238e4ef8ed11467f6b169ad0b0.png?size=1024"
+        },
+        {
+            "name": "Lixz",
+            "product": "Custom Discord Bot",
+            "imageUrl": "https://cdn.discordapp.com/avatars/884998786131304469/a3a34ba300461958304f33718f293dbb?size=1024"
+        },
+        {
+            "name": "Pengelana",
+            "product": "Setup Server Discord",
+            "imageUrl": "https://cdn.discordapp.com/avatars/448412974202224641/277e1d858c592ae9d36690016c945ca6?size=1024"
+        },
+        {
+            "name": "MightyHunter",
+            "product": "Custom Discord Bot",
+            "imageUrl": "https://cdn.discordapp.com/avatars/989847838223634442/c5bdcb0ad3343824b440cdb830f9dead?size=1024"
+        },
+        {
+            "name": "Aico Master",
+            "product": "Custom Discord Bot",
+            "imageUrl": "https://cdn.discordapp.com/avatars/1269954059746414644/1a5c5838cc620016b937f2937b697be1?size=1024"
+        },
+        {
+            "name": "Drak Nest",
+            "product": "Custom Discord Bot",
+            "imageUrl": "https://cdn.discordapp.com/avatars/524911299948445696/d610a6e2fecd34c2dc62d5e33b7a238b?size=1024"
+        },
+        {
+            "name": "Astri",
+            "product": "Discord Nitro — Gift",
+            "imageUrl": "https://cdn.discordapp.com/avatars/675147700982906888/3dd3161f8238a02a03209b66156431f8?size=1024"
+        },
+        {
+            "name": "MamalNaresh",
+            "product": "Custom Discord Bot",
+            "imageUrl": "https://cdn.discordapp.com/avatars/488387620154507294/eafdc6b2edacd6fe5aca5ad19a71ecb8?size=1024"
+        },
+        {
+            "name": "Jaden Lee",
+            "product": "Discord Nitro — Gift",
+            "imageUrl": "https://cdn.discordapp.com/avatars/1074460428358397952/33084b092af84e7000f53ccccbfae8a8?size=1024"
+        },
+        {
+            "name": "Hipopa",
+            "product": "Discord Nitro — Login",
+            "imageUrl": "https://cdn.discordapp.com/avatars/1168144907265912935/373ce6dc7bfb0adc7faad1897ece539e?size=1024"
+        },
+        {
+            "name": "m o s t e",
+            "product": "Discord Nitro — Gift",
+            "imageUrl": "https://cdn.discordapp.com/avatars/655661098904584192/f0268e8ca8976a631fcd004cf5561186?size=1024"
+        },
+        {
+            "name": "Leo",
+            "product": "Custom Discord Bot",
+            "imageUrl": "https://cdn.discordapp.com/avatars/1251390886160498689/6c5996770c985bcd6e5b68131ff2ba04?size=1024"
+        },
+        {
             "name": "Adikia Saputra",
             "product": "Custom Discord Bot",
             "imageUrl": "https://cdn.discordapp.com/avatars/338517948635545600/621340e223a7d4b9105b579e5f0fb78b?size=1024"
         },
         {
             "name": "Jaden Lee",
-            "product": "Discord Nitro Boost - 1 Tahun",
+            "product": "Setup Server Discord",
             "imageUrl": "https://cdn.discordapp.com/avatars/1074460428358397952/33084b092af84e7000f53ccccbfae8a8?size=1024"
         }
     ]
